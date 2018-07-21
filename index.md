@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+![Image](https://avatars2.githubusercontent.com/u/15375692?s=460&v=4)
 
 You can use the [editor on GitHub](https://github.com/claudiulazar/profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and [Image](https://avatars2.githubusercontent.com/u/15375692?s=460&v=4)
+[Link](url)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
